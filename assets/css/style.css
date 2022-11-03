@@ -20,11 +20,8 @@ body{
     height: 667px;
     background-color: #f5f5f5;
     margin: auto;
-    /* box-shadow: 0px 0px 20px 5px #ccc; */
-    /* overflow: auto; */
 }
 
-/* scroll */
 
 .play{
     width: 375px;
